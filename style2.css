@@ -1,0 +1,78 @@
+body{
+    background-color: brown;
+
+}
+
+.div1{
+    height: 1000px;
+    width: 1300px;
+    background-image: url("intArkaPlan4.jpg");
+    padding-left: 100px;
+    padding-top: 70px;
+    padding-right: 100px;
+
+}
+.div2{
+    height:900px;
+    width: 100%;
+    background-color: brown;
+    padding-top: 70px;
+    opacity: 0.8;
+}
+.div3{
+    padding-top: 70px;
+    float: left;
+}
+.tablo{
+    width: 600px;
+    height: 300px;
+    padding-top: 70px;
+    float: left;
+
+}
+.form1{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    opacity: 1.5;
+}
+p{
+    font-size: 24px;
+    font-weight: bold;
+}
+.input{
+    font-size: 17px;
+    font-weight: bold;
+}
+.inp1{
+    margin-left: 220px;
+    width: 80px;
+    height: 40px;
+}
+.inp2{
+    width: 80px;
+    height: 40px;
+    margin-left: 20px;
+
+}
+fieldset{
+    width: 500px;
+}
+.tbl1{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 7px;
+    background-color: #ccddee;
+}
+td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 18px ;
+    padding: 5px;
+    background-color: #ccddea;
+
+}

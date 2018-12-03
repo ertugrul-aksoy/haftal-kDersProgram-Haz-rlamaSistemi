@@ -1,0 +1,44 @@
+body{
+    background-color: brown;
+}
+.div{
+    height: 1000px;
+    width: 1300px;
+    background-image: url("intArkaPlan4.jpg");
+    padding-left: 100px;
+    padding-top: 70px;
+    padding-right: 100px;
+
+}
+.div2{
+    height:900px;
+    width: 100%;
+    background-color: brown;
+    padding-top: 70px;
+    opacity: 0.8;
+}
+.div3{
+    margin: auto;
+    width: 310px;
+    padding: 30px;
+    border: solid thin #dddddd;
+    margin-top: 150px;
+    border-radius: 10px;
+}
+
+.info{
+    padding: 5px;
+    margin-bottom: 20px;
+    width: 300px;
+    border: none;
+    border-bottom: solid thin #bbbbbb;
+}
+input[type="submit"]{
+    border: none;
+    padding: 10px;
+    width: 150px;
+    float: right;
+    background-color: #333333;
+    color: #ffffff;
+    cursor: pointer;
+}
